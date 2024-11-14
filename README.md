@@ -2,6 +2,10 @@
 
 This repository contains some of the NinjaTrader 7/8 indicators I created around 2019-2021. All were coded in NinjaScript which is a derivative of C#. Indicators function by adding graphical elements (lines, shapes, text) on top of stock charts, allowing traders to monitor possible signals and actively visualize different metrics in real-time.
 
+Sample screenshot of Order Ladder indicator, consisting of a volume ladder overlay on the candlesticks and a volume profile.
+
+<img src="./screenshots/indicator.png" alt="OrderLadder indicator screenshot" width="700"/>
+
 ## Disclaimer
 
 These scripts were mainly for theory-crafting purposes, as profitable trading strategies often take a long time to thoroughly test and will often become outdated as market conditions change. 
